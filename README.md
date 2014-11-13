@@ -1,2 +1,2 @@
-gepository contains linux rc .files used for daily work
+repository contains linux rc .files used for daily work
 
